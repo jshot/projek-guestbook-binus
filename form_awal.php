@@ -1,3 +1,3 @@
 <?php
-	echo 'ini form awal';
+	echo 'ini form awal'; 
 ?>
